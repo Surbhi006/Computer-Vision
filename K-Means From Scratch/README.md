@@ -1,6 +1,6 @@
 # K-Means
 
-##Steps:
+## Steps:
 
 * Load the image apply preprocessing if any required.
 * Chosse k points randomly know as means.
