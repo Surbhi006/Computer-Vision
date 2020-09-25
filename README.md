@@ -1,6 +1,6 @@
 # Computer-Vision
 
-## *Topics covered:
+## Topics covered:
 * Created flag image using matrix
 * Classify images using HOG feature with SVM classifier.
 * Match patches across images using LBP feature.
@@ -11,7 +11,7 @@
 * SLIC
 * Mean Shift
 
-## *How to Run?
+## How to Run?
 
 * Install cv2,matplotlib
 * Open Jupyter Notebook and make sure that files are available in the same folder as jupyter notebook and then start running the code from the beginning.
